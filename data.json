@@ -23,6 +23,25 @@
       "institute":"NIRMALA",
       "data":["2014","82%"]
     }
+  ],
+  "skills":[
+  {
+    "tittle":"Languages",
+    "content":["C","Python","Java","C++","C#","R"]
+  },
+  {
+    "tittle":"DataBase",
+    "content":["SQL","MongoDB","MySql"]
+  },
+  {
+    "tittle":"Web Technologies",
+    "content":["HTML","CSS","JavaScript","PHP"]
+  },
+  {
+    "tittle":"Frameworks",
+    "content":["Django","CodeIgniter"]
+  }
+
   ]
 
   }
